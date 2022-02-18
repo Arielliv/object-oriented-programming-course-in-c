@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ariell/Education/OOP-in-c++/first lesson/e 2/main.cpp
+survivor.h
+/Users/ariell/Education/OOP-in-c++/first lesson/e 2/survivor.h
+
+/Users/ariell/Education/OOP-in-c++/first lesson/e 2/survivor.h
+iostream
+-
+string
+-
+
